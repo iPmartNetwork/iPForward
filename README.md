@@ -28,15 +28,10 @@ IP forwarding by iptables
 
 
 ```
-wget bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/iPForward/main/iPForward.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/iPForward/main/iPForward.sh)
 ```
 
 
-## use
-
-```
-bash iPForward.sh
-```
 
 
 # تلگرام
